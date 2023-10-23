@@ -1,5 +1,9 @@
 # Google-PlayStore-Dashboard-Tableau
+
+
 [Click Here for Dashboard](https://public.tableau.com/app/profile/nikhil.bordekar/viz/shared/6DNJ69JRY)
+
+
 <img width="594" alt="image" src="https://github.com/nikhilbordekar/Google-PlayStore-Dashboard-Tableau/assets/121897260/9a8872a4-ce52-4a14-b33d-7a46d30535f3">
 
 **Project Overview**
@@ -34,3 +38,17 @@ View the current top 10 most popular apps on the Google Play Store.
 
 1) Use filters to refine data by category, genre, and app type (Free or Paid).
 2) Customize your analysis based on specific criteria and interests.
+
+**How to Use the Dashboard**
+
+1) Top Navigation: Navigate through the various sections of the dashboard using the top menu.
+
+2) Filters: Use the filters provided to select specific categories, genres, or app types to narrow down your analysis.
+
+3) Charts and Visualizations: Explore the visualizations on each tab to gain insights into different aspects of the Google Play Store data.
+
+4) Interactivity: The dashboard is interactive, allowing you to click on data points, apply filters, and customize your experience.
+
+**Acknowledgments**
+
+Special thanks to the creators and maintainers of Tableau for providing an exceptional platform for data visualization and analysis.
